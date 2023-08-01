@@ -1,0 +1,123 @@
+@import "src/app/scss/_color.scss";
+
+.app-root {
+    padding: 10vh 11vh;
+
+    .first-para {
+        font-weight: 400;
+        font-size: 71px;
+        line-height: 72px;
+        letter-spacing: -0.02em;
+        margin-bottom: 100px;
+        font-family: PP-Fragment !important;
+    }
+
+    .sec-para {
+        font-weight: 400;
+        font-size: 71px;
+        line-height: 72px;
+        letter-spacing: -0.02em;
+        margin-bottom: 100px;
+        font-family: PP-Fragment !important;
+    }
+
+    .third-para {
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 36px;
+        letter-spacing: -0.02em;
+        margin-bottom: 100px;
+        font-family: PP-Fragment !important;
+    }
+
+    .fourth-para {
+        font-weight: 450;
+        font-size: 39px;
+        line-height: 44px;
+        letter-spacing: -0.01em;
+        margin-bottom: 100px;
+    }
+
+    .fifth-para {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 130%;
+        margin-bottom: 100px;
+    }
+
+    .sixth-para {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 130%;
+        margin-bottom: 100px;
+    }
+
+    .sevent-para {
+        font-weight: 450;
+        font-size: 18px;
+        line-height: 130%;
+    }
+
+    .eigth-para {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 130%;
+        margin-bottom: 100px;
+    }
+
+    .ningth-para {
+        font-weight: 450;
+        font-size: 25px;
+        line-height: 31px;
+        margin-bottom: 100px;
+    }
+
+    .tenth-para {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 130%;
+        letter-spacing: 0.02em;
+        margin-bottom: 100px;
+    }
+
+    .eleventh-para {
+        font-weight: 450;
+        font-size: 13px;
+        line-height: 130%;
+        letter-spacing: 0.02em;
+        margin-bottom: 100px;
+    }
+
+    .tweleth-para {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 130%;
+        letter-spacing: 0.02em;
+    }
+
+    .switch-button {
+        text-align: right;
+        margin: 50px 0px;
+    }
+
+    .sec-section {
+        -webkit-font-smoothing: antialiased !important;
+
+        .demo {
+            font-family: demo !important;
+            font-size: 500px;
+        }
+    }
+}
+
+.dark {
+    background-color: $dark-background;
+    color: $dark-para;
+    font-family: Suisse !important;
+    font-style: 'regular';
+}
+
+.light {
+    background: #FFFFFF;
+    color: #040404;
+}

@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0;
+    font-family: Suisse;
+}
+
+@font-face {
+    font-family: Suisse;
+    src: url('assets/font-icon/fonts/SuisseIntl-Regular-WebTrial.ttf') format('truetype');
+}  
+
+@font-face {
+    font-family: PP-Fragment;
+    src: url('assets/font-icon/fonts/PPFragment-SansRegular.otf') format('truetype');
+}  
